@@ -2,3 +2,4 @@
 Somente teste
 # Somente teste com Pirex
 comando git push
+comando git pull
